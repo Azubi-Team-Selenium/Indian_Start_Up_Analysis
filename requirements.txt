@@ -6,3 +6,6 @@ plotly
 powerbiclient
 pyodbc
 python-dotenv
+sckit-learn
+missingno
+re
