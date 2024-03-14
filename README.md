@@ -2,7 +2,7 @@
 Exploring the Indian Startup Ecosystem: A Data Driven Analysis of Funding Trends and Industry Sectors
 
 2. **Description**: 
-The Indian startup ecosystem is one of the largest and fastest-growing in the world, with a consistent annual growth rate of 12-15%¹. As of 2018, India was home to more than 50,000 startups, with 2-3 tech startups being born every day¹. This vibrant ecosystem is becoming increasingly attractive for investors, startups, and corporates alike.
+The Indian startup ecosystem is one of the largest and fastest-growing in the world, with a consistent annual growth rate of 12-15%. As of 2018, India was home to more than 50,000 startups, with 2-3 tech startups being born every day. This vibrant ecosystem is becoming increasingly attractive for investors, startups, and corporates alike.
 As team of data analysts, we are to investigate the ecosystem and propose the best course of action for our stakeholders using the data regarding funding received by startups in India from 2018-2019.
 Therefore, the aim of this project is to perform analysis on the Indian start-ups ecosystem and advice stakeholders to invest on a venture that has the potential of high profit/income.
 
@@ -21,12 +21,12 @@ These technologies played a crucial role in the successful implementation of the
 The data for this project was sourced from different places. The 2018 and 2019 datasets were collected from GitHub via provided links, and the 2020 and 2021 datasets from a remotely secured database using credentials provided by client.  
 
 5. **Data Cleaning and Preprocessing**: 
-The data obtained for the analysis of the Indian Startup Ecosystem from the 2018-2021 funding datasets required extensive cleaning and preprocessing due to various issues such as duplicates, misplaced values, null values, inconsistent variables and values, unnecessary symbols, commas, and full stops. The following steps were taken to ensure the data was reliable and ready for analysis:
+The data obtained for the analysis of the Indian Startup Ecosystem from the 2018-2021 funding datasets required extensive cleaning and preprocessing due to various issues such as duplicates, misplaced values, null values, inconsistent variables and values, unnecessary symbols, commas, and full stops. The following steps were taken to ensure that the data was reliable and ready for analysis:
 1. *Handling Duplicates*: Duplicates were identified and removed from the datasets to prevent skewing the analysis results and ensure data integrity.
 2. *Dealing with Null Values*: Null values were identified and handled appropriately using methods such as imputation, removal, or interpolation to avoid any bias in the analysis.
 3. *Correcting Misplaced Values*: Values that were incorrectly placed or categorized were corrected to ensure accurate representation of the data.
 4. *Standardizing Variables and Values*: Inconsistent variables and values were standardized to maintain uniformity across the datasets, enabling meaningful comparisons and analysis.
-5. *Removing Unnecessary Symbols*: Unnecessary symbols, commas, and full stops were removed from the data to prevent errors in calculations and ensure consistency in the dataset.
+5. *Removing Unnecessary Symbols*: Unnecessary currency and other symbols, commas, and full stops were removed from the data (amount column) to prevent errors in calculations and ensure consistency in the dataset.
 6. *Data Formatting*: Data formatting was applied to ensure that all data fields were in the correct format for analysis, including date formats, numerical values, and categorical variables.
 7. *Data Transformation*: Data transformation techniques were employed to normalize the data distribution, handle outliers, and prepare the data for statistical analysis and machine learning models.
 
